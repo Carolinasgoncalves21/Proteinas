@@ -1,6 +1,6 @@
 body {
     background-color: #f2f2f2; 
-    color: #333333; 
+    color: #6117eb; 
     font-family: Arial, sans-serif;
     font-size: 20px;
 }
@@ -15,12 +15,12 @@ p {
 
 img {
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 15px;
     color:bisque;
 }
 
 iframe {
     margin-top: 20px;
-    border: 10px solid #ccc;
+    border: 8px solid #f58383;
     border-radius: 10px;
 }
