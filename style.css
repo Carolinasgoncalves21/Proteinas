@@ -1,5 +1,6 @@
 body {
     background-color: #f2f2f2; 
+    text-align: justify;
     color: #6117eb; 
     font-family: Arial, sans-serif;
     font-size: 20px;
@@ -21,6 +22,7 @@ img {
 
 iframe {
     margin-top: 20px;
+    text-align: center;
     border: 8px solid #f58383;
     border-radius: 10px;
 }
